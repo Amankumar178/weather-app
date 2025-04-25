@@ -18,4 +18,4 @@ This project demonstrates API integration and dynamic data handling in JavaScrip
 ## Running Locally
 1. Clone this repository:
    ```bash
-   git clone https://github.com/kaa-p/weather-app.git
+   https://github.com/Amankumar178/weather-app
